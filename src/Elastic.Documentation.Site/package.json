@@ -64,7 +64,7 @@
     "@babel/preset-env": "7.29.0",
     "@babel/preset-react": "7.28.5",
     "@babel/preset-typescript": "7.28.5",
-    "@elastic/synthetics": "1.22.0",
+    "@elastic/synthetics": "1.24.3",
     "@eslint/js": "10.0.1",
     "@parcel/reporter-bundle-analyzer": "2.16.4",
     "@parcel/transformer-svg-react": "2.16.1",
